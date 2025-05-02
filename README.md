@@ -16,14 +16,15 @@ Verticalement  (sur la meme colonne)
 Diagonalement  (sur les diagonales)
 
 Donc on doit :
- Éviter deux reines sur la meme ligne
+ -Eviter deux reines sur la meme ligne
 Sinon une attaque horizontalement 
 
-Éviter deux reines sur la meme colonne
+-Eviter deux reines sur la meme colonne
 Sinon un attaque verticalement 
 
- Éviter deux reines sur une diagonale
-Sinon un attaque en diagonale 
+ -Eviter deux reines sur une diagonale
+Sinon un attaque en diagonale
+
 ---
 
 
