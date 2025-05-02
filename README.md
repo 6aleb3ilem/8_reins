@@ -3,6 +3,8 @@
 ##  Objectif
 
 Placer **8 reines sur un echiquier 8x8** de maniere  **qu’aucune ne se menace** :
+![Screenshot from 2025-05-02 12-42-54](https://github.com/user-attachments/assets/b42569b7-fa84-4109-97a2-916ccd147add)
+![Screenshot from 2025-05-02 12-43-40](https://github.com/user-attachments/assets/007e8cc6-e6f5-4ff5-a35b-ef71639e3676)
 
 
 comme que la reine peut se déplacer dans trois directions :
