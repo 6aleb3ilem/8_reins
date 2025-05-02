@@ -46,4 +46,6 @@ On repete **jusqu’a trouver une solution complete**
 ##  Exemple de solution affichée
 
 Le resultat final est affiché  sous forme d’echiquier :  
+![image](https://github.com/user-attachments/assets/35179472-7040-4301-bc60-2b3bd3dc655d)
+
 
